@@ -1,0 +1,7 @@
+[Query 2] Paths from Ankara to Erzurum with 1 intermediate cities:
+Ankara Istanbul Izmir Erzurum 
+Ankara Istanbul Erzurum 
+Ankara Izmir Istanbul Erzurum 
+Ankara Izmir Erzurum 
+Ankara Istanbul Erzurum 
+Ankara Izmir Erzurum 

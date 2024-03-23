@@ -1,0 +1,2 @@
+[Query 3] Paths from Ankara to Istanbul using transportation type Highway:
+Ankara Erzurum Istanbul

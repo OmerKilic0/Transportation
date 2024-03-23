@@ -1,0 +1,2 @@
+[Query 1] Path from Ankara to Erzurum with counts: Highway=1, Airway=0, Railway=1
+Ankara H Izmir R Erzurum
